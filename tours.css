@@ -1,0 +1,98 @@
+body{
+	background-color: #E8E8E8;
+}
+
+.header{
+	height: 100px;
+	max-width: 100%;
+	background-color: pink;
+}
+
+.navbar{
+	height: 50px;
+	width: 100%;
+	background-color: yellow;
+}
+
+.container{
+
+	
+}
+
+.ABC{
+	margin-left: 20px;
+}
+
+.A{
+	float: left;
+}
+
+.B{
+	float: right;
+	background-color: red;
+	height: 500px;
+	width: 300px;
+	margin-top: 20px;
+	margin-right: 100px;
+}
+ 
+img{
+	max-width: 100%;
+	height:auto;
+}
+
+.tour1{
+	width: 900px;
+	height: 20px;
+	background-color: #E8E8E8;
+	padding-top: 5px;
+	font-size: 20px;
+	color: black;
+}
+
+.tour1-pac1{
+	width: 900px;
+	height: 30px;
+	margin-top: 10px;
+	background-color: #00CC66;
+	color: white;
+	text-align: center;
+}
+
+.pac1-des{
+	width: 850px;
+	height: 180px;
+	margin: 0px 0px 0px 20px; 
+	background-color: #CCCCFF;
+}
+
+.jp{
+	height: 160px;
+	width: 150px;
+	float: left;
+	padding: 10px;
+}
+
+.des1{
+	height: 180px;
+	width: 640px;
+	float: left;
+	margin-left: 20px;
+	padding:0px 0px 0px 20px;
+	background-color: #CCCC99;
+	font-size: 15px;
+}
+
+.read{
+	float: right;
+}
+
+.side-bar{
+	float: right;
+	height: 600px;
+	width: 200px;
+	text-align: center;
+	padding-right: 100px;
+}
+
+
