@@ -1,0 +1,14 @@
+git status = check available folders
+
+git add . = add folder
+
+git add --all = add folder and sub folder
+
+git commit == committed or confirmed
+
+git commit -m "pushed first repo" = to pass message
+
+git log = to see what changes have been made on the repository
+
+git push -u origin master = makes the changes to original file/major file (sync on website)
+
